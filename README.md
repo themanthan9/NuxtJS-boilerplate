@@ -1,4 +1,4 @@
-# twizz
+# Default Nuxt setup
 
 ## Build Setup
 
